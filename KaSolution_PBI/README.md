@@ -8,6 +8,6 @@ Curso de Power BI básico ministrado pela Ka Solutions que abordou temas como:
 ## Hands on:
 - Fontes de dados:
   - Base.xlsx
-  - Produtos.xlsx
+  - Produtos.csv
   - Vendedores.txt
   - Pasta com dados das vendas
