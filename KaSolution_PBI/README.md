@@ -1,5 +1,5 @@
   # Curso básico de Power Bi Ka Solutions
-Curso de Power BI básico ministrado pela Ka Sulutions que abordou temas como:
+Curso de Power BI básico ministrado pela Ka Solutions que abordou temas como:
 - Acessando e preparando os Dados
 - Modelagem e Exploração dos dados
 - Desenvolvimento do Dashboard
